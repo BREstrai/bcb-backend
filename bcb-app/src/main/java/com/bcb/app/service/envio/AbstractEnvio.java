@@ -14,8 +14,8 @@ public abstract class AbstractEnvio extends AbstractService {
 
     private final ContaService contaService;
 
-    protected static final String ACCOUNT_SID = "AC12775c5d9bf01757aa96dcb0b4908145";
-    protected static final String AUTH_TOKEN = "aa14ac7920442fae3f805835a6f8e887";
+    protected static final String ACCOUNT_SID = "dados aqui";
+    protected static final String AUTH_TOKEN = "dados aqui";
 
     public AbstractEnvio(EnvioRepository envioRepository, ContaService contaService) {
 
